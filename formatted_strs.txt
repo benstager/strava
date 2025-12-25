@@ -1,0 +1,4512 @@
+
+    --------------------
+    
+        Date : 2025-01-01
+        
+        Time (minutes) : 6.583333333333333
+        
+        Distance (miles) : 1.0081744475
+        
+        Pace (minutes per mile) : 6:31
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-02
+        
+        Time (minutes) : 6.4
+        
+        Distance (miles) : 1.0117162622
+        
+        Pace (minutes per mile) : 6:19
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-06
+        
+        Time (minutes) : 6.65
+        
+        Distance (miles) : 1.0156308995
+        
+        Pace (minutes per mile) : 6:32
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-08
+        
+        Time (minutes) : 6.55
+        
+        Distance (miles) : 1.022155295
+        
+        Pace (minutes per mile) : 6:24
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-10
+        
+        Time (minutes) : 6.35
+        
+        Distance (miles) : 1.0107220686
+        
+        Pace (minutes per mile) : 6:16
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-12
+        
+        Time (minutes) : 10.283333333333331
+        
+        Distance (miles) : 1.54721379
+        
+        Pace (minutes per mile) : 6:38
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-13
+        
+        Time (minutes) : 14.033333333333331
+        
+        Distance (miles) : 2.064815833
+        
+        Pace (minutes per mile) : 6:47
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-14
+        
+        Time (minutes) : 6.6
+        
+        Distance (miles) : 1.0127104558
+        
+        Pace (minutes per mile) : 6:31
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-15
+        
+        Time (minutes) : 13.816666666666666
+        
+        Distance (miles) : 2.0769947046
+        
+        Pace (minutes per mile) : 6:39
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-16
+        
+        Time (minutes) : 6.566666666666666
+        
+        Distance (miles) : 1.0132696897
+        
+        Pace (minutes per mile) : 6:28
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-17
+        
+        Time (minutes) : 13.966666666666669
+        
+        Distance (miles) : 2.0369784122
+        
+        Pace (minutes per mile) : 6:51
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-19
+        
+        Time (minutes) : 7.05
+        
+        Distance (miles) : 1.0843545321
+        
+        Pace (minutes per mile) : 6:30
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-20
+        
+        Time (minutes) : 9.033333333333331
+        
+        Distance (miles) : 1.3282426496
+        
+        Pace (minutes per mile) : 6:48
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-21
+        
+        Time (minutes) : 6.6
+        
+        Distance (miles) : 1.0187377545
+        
+        Pace (minutes per mile) : 6:28
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-22
+        
+        Time (minutes) : 14.083333333333334
+        
+        Distance (miles) : 2.0777403498
+        
+        Pace (minutes per mile) : 6:46
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-23
+        
+        Time (minutes) : 14.05
+        
+        Distance (miles) : 2.0333744604
+        
+        Pace (minutes per mile) : 6:54
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-24
+        
+        Time (minutes) : 13.966666666666669
+        
+        Distance (miles) : 2.087185189
+        
+        Pace (minutes per mile) : 6:41
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-25
+        
+        Time (minutes) : 13.983333333333333
+        
+        Distance (miles) : 2.0782374466
+        
+        Pace (minutes per mile) : 6:43
+        
+        Description : This one is for you handsome Matt Ramos
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-27
+        
+        Time (minutes) : 6.666666666666667
+        
+        Distance (miles) : 1.0377517071
+        
+        Pace (minutes per mile) : 6:25
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-28
+        
+        Time (minutes) : 6.616666666666666
+        
+        Distance (miles) : 1.0140153349
+        
+        Pace (minutes per mile) : 6:31
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-29
+        
+        Time (minutes) : 14.066666666666666
+        
+        Distance (miles) : 2.1153332953
+        
+        Pace (minutes per mile) : 6:38
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-01-30
+        
+        Time (minutes) : 14.016666666666667
+        
+        Distance (miles) : 2.0938338587
+        
+        Pace (minutes per mile) : 6:41
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-03
+        
+        Time (minutes) : 8.75
+        
+        Distance (miles) : 1.2879778088000002
+        
+        Pace (minutes per mile) : 6:47
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-04
+        
+        Time (minutes) : 14.116666666666667
+        
+        Distance (miles) : 2.0316346216
+        
+        Pace (minutes per mile) : 6:56
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-05
+        
+        Time (minutes) : 14.1
+        
+        Distance (miles) : 2.0129934916
+        
+        Pace (minutes per mile) : 7:00
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-06
+        
+        Time (minutes) : 14.15
+        
+        Distance (miles) : 2.0126828061
+        
+        Pace (minutes per mile) : 7:01
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-07
+        
+        Time (minutes) : 13.933333333333334
+        
+        Distance (miles) : 2.006406959
+        
+        Pace (minutes per mile) : 6:56
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-09
+        
+        Time (minutes) : 14.316666666666666
+        
+        Distance (miles) : 2.0110672415
+        
+        Pace (minutes per mile) : 7:07
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-10
+        
+        Time (minutes) : 14.183333333333334
+        
+        Distance (miles) : 2.0229354276
+        
+        Pace (minutes per mile) : 7:00
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-11
+        
+        Time (minutes) : 14.25
+        
+        Distance (miles) : 2.0082089349000003
+        
+        Pace (minutes per mile) : 7:05
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-12
+        
+        Time (minutes) : 14.183333333333334
+        
+        Distance (miles) : 2.0213820001
+        
+        Pace (minutes per mile) : 7:00
+        
+        Description : Forgot my apple watch so heres a photo
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-13
+        
+        Time (minutes) : 14.333333333333334
+        
+        Distance (miles) : 2.0423222028000003
+        
+        Pace (minutes per mile) : 7:01
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-14
+        
+        Time (minutes) : 13.95
+        
+        Distance (miles) : 2.0423843399
+        
+        Pace (minutes per mile) : 6:49
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-15
+        
+        Time (minutes) : 13.966666666666669
+        
+        Distance (miles) : 2.0355492589
+        
+        Pace (minutes per mile) : 6:51
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-16
+        
+        Time (minutes) : 13.8
+        
+        Distance (miles) : 2.0416386947
+        
+        Pace (minutes per mile) : 6:45
+        
+        Description : Happy Sunday Matt Ramos
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-17
+        
+        Time (minutes) : 13.85
+        
+        Distance (miles) : 2.0195800241999997
+        
+        Pace (minutes per mile) : 6:51
+        
+        Description : Cmon
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-18
+        
+        Time (minutes) : 13.466666666666669
+        
+        Distance (miles) : 2.0139255481
+        
+        Pace (minutes per mile) : 6:41
+        
+        Description : The game is too easy for me
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-19
+        
+        Time (minutes) : 13.85
+        
+        Distance (miles) : 2.0546253486
+        
+        Pace (minutes per mile) : 6:44
+        
+        Description : Anything is better than that 1train
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-20
+        
+        Time (minutes) : 14.533333333333331
+        
+        Distance (miles) : 2.1408716434
+        
+        Pace (minutes per mile) : 6:47
+        
+        Description : The last minute of All Along the Watchtower (Hendrix) is like actually some of the greatest music ever made
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-21
+        
+        Time (minutes) : 13.916666666666666
+        
+        Distance (miles) : 2.0000068377
+        
+        Pace (minutes per mile) : 6:57
+        
+        Description : Watch died on me, here’s a photo.
+
+Song of the day is Heart of the City (Ain’t No Love) by Jay Z
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-22
+        
+        Time (minutes) : 6.683333333333334
+        
+        Distance (miles) : 1.013456101
+        
+        Pace (minutes per mile) : 6:35
+        
+        Description : Hungover tired etc etc
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-23
+        
+        Time (minutes) : 13.9
+        
+        Distance (miles) : 2.0627031716
+        
+        Pace (minutes per mile) : 6:44
+        
+        Description : Song of the day is Virtual Insanity by Jamiroquai
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-24
+        
+        Time (minutes) : 13.966666666666669
+        
+        Distance (miles) : 2.0493436951
+        
+        Pace (minutes per mile) : 6:48
+        
+        Description : Song of the day is Runner by Kevin Abstract
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-26
+        
+        Time (minutes) : 13.933333333333334
+        
+        Distance (miles) : 2.0313860732
+        
+        Pace (minutes per mile) : 6:51
+        
+        Description : Song of the day is Aux-Champs Elysses by Daniel Colin
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-27
+        
+        Time (minutes) : 13.916666666666666
+        
+        Distance (miles) : 2.0000068377
+        
+        Pace (minutes per mile) : 6:57
+        
+        Description : Forgot watch. Little under the weather- song of the day is PRIDE. by Kendrick Lamar
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-02-28
+        
+        Time (minutes) : 9.033333333333331
+        
+        Distance (miles) : 1.3238309155
+        
+        Pace (minutes per mile) : 6:49
+        
+        Description : Under the weather so could barely even do this. Song of the day is Pink + White by Frank Ocean
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-02
+        
+        Time (minutes) : 13.9
+        
+        Distance (miles) : 2.0476038563000003
+        
+        Pace (minutes per mile) : 6:47
+        
+        Description : Sporting a nasty hangover. Song of the day is On My Block by Scarface
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-04
+        
+        Time (minutes) : 13.85
+        
+        Distance (miles) : 2.0359842186
+        
+        Pace (minutes per mile) : 6:48
+        
+        Description : Song OTD: Best Day Ever by Mac Miller
+        
+        Music for the run :  Best Day Ever by Mac Miller
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-04
+        
+        Time (minutes) : 13.65
+        
+        Distance (miles) : 2.076621882
+        
+        Pace (minutes per mile) : 6:34
+        
+        Description : Felt like shit weekend rly took the piss out of me. Song of the day is Interlude (That’s Love) by Chance the Rapper
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-05
+        
+        Time (minutes) : 13.8
+        
+        Distance (miles) : 2.0189586532
+        
+        Pace (minutes per mile) : 6:50
+        
+        Description : Tired today. 
+
+Song OTD: Ladders by Mac Miller
+        
+        Music for the run :  Ladders by Mac Miller
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-06
+        
+        Time (minutes) : 14.2
+        
+        Distance (miles) : 2.0108186931
+        
+        Pace (minutes per mile) : 7:03
+        
+        Description : First outdoor run of the season! Good lord I felt like shit though.
+
+Song OTD: Fancy Footwork by Chromeo
+        
+        Music for the run :  Fancy Footwork by Chromeo
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-07
+        
+        Time (minutes) : 22.75
+        
+        Distance (miles) : 3.139787663
+        
+        Pace (minutes per mile) : 7:14
+        
+        Description : One of my best treadmill runs in a long time. Felt so easy. 
+
+Song OTD: Alright by Kendrick Lamar
+        
+        Music for the run :  Alright by Kendrick Lamar
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-08
+        
+        Time (minutes) : 14.383333333333333
+        
+        Distance (miles) : 2.0184615564
+        
+        Pace (minutes per mile) : 7:07
+        
+        Description : This pace is flat out wrong but whatever
+
+Song OTD: Kids by MGMT
+        
+        Music for the run :  Kids by MGMT
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-10
+        
+        Time (minutes) : 6.7
+        
+        Distance (miles) : 1.0025821085
+        
+        Pace (minutes per mile) : 6:40
+        
+        Description : This is bullshit and wrong - was late for work so did a mile at 6:08 on treadmill
+
+Song OTD: Like Him by Tyler the Creator
+        
+        Music for the run :  Like Him by Tyler the Creator
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-11
+        
+        Time (minutes) : 14.516666666666667
+        
+        Distance (miles) : 2.0437513561
+        
+        Pace (minutes per mile) : 7:06
+        
+        Description : This is once again wrong, see photo. Watch tracking is killing me
+
+Song OTD: She’s a Lady by Tom Jones
+        
+        Music for the run :  She’s a Lady by Tom Jones
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-12
+        
+        Time (minutes) : 6.666666666666667
+        
+        Distance (miles) : 1.0388701749
+        
+        Pace (minutes per mile) : 6:25
+        
+        Description : I’m a lazy POS and woke up late so only a mile today :(
+
+Song OTD: Everything I Love by Morgan Wallen
+        
+        Music for the run :  Everything I Love by Morgan Wallen
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-13
+        
+        Time (minutes) : 22.95
+        
+        Distance (miles) : 3.1547627041000004
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : Felt so good great stuff
+
+Song OTD: I. The Worst Guys by Childish Gambino and Chance the Rapper
+        
+        Music for the run :  I. The Worst Guys by Childish Gambino and Chance the Rapper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-14
+        
+        Time (minutes) : 14.683333333333334
+        
+        Distance (miles) : 2.0236810728
+        
+        Pace (minutes per mile) : 7:15
+        
+        Description : One of legit the worst runs I’ve ever had. Was gonna go for 4 and felt so sick to my stomach at 2. Oh well
+
+Song OTD: K Pop by Playboi Carti
+        
+        Music for the run :  K Pop by Playboi Carti
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-16
+        
+        Time (minutes) : 17.083333333333332
+        
+        Distance (miles) : 2.1974785415
+        
+        Pace (minutes per mile) : 7:46
+        
+        Description : Can’t pace correctly rn, legs feel like shit, my outdoor running is a mess rn
+
+Song OTD: Sally, When The Wine Runs Out by ROLE MODEL
+        
+        Music for the run :  Sally, When The Wine Runs Out by ROLE MODEL
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-17
+        
+        Time (minutes) : 14.0
+        
+        Distance (miles) : 2.0000068377
+        
+        Pace (minutes per mile) : 6:59
+        
+        Description : Forgot watch whoops
+
+Song OTD: HIGHJACK by ASAP Rocky
+        
+        Music for the run :  HIGHJACK by ASAP Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-18
+        
+        Time (minutes) : 22.933333333333337
+        
+        Distance (miles) : 3.1597958092
+        
+        Pace (minutes per mile) : 7:15
+        
+        Description : I desperately need to be running outside
+
+Song OTD: Idk Why by Gunna
+        
+        Music for the run :  Idk Why by Gunna
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-19
+        
+        Time (minutes) : 6.75
+        
+        Distance (miles) : 1.0212232385
+        
+        Pace (minutes per mile) : 6:36
+        
+        Description : Lazy 
+
+Song OTD: Nightrain by Guns n Roses
+        
+        Music for the run :  Nightrain by Guns n Roses
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-20
+        
+        Time (minutes) : 14.416666666666666
+        
+        Distance (miles) : 2.026912202
+        
+        Pace (minutes per mile) : 7:06
+        
+        Description : Woot woot
+
+Song OTD: Good News by Mac Miller
+        
+        Music for the run :  Good News by Mac Miller
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-21
+        
+        Time (minutes) : 22.466666666666665
+        
+        Distance (miles) : 3.142894518
+        
+        Pace (minutes per mile) : 7:08
+        
+        Description : Felt alright today, legs are taking a toll
+
+Song OTD. Wave Gods by ASAP Rocky ft. Nas
+        
+        Music for the run : . Wave Gods by ASAP Rocky ft. Nas
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-23
+        
+        Time (minutes) : 14.266666666666667
+        
+        Distance (miles) : 2.0237432099
+        
+        Pace (minutes per mile) : 7:02
+        
+        Description : Hungover
+
+Song OTD: All Over the World by ELO
+        
+        Music for the run :  All Over the World by ELO
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-24
+        
+        Time (minutes) : 14.15
+        
+        Distance (miles) : 2.0093895398000003
+        
+        Pace (minutes per mile) : 7:02
+        
+        Description : Tiiiiiiiiiiiired
+
+Song OTD: Holy Ghost by ASAP Rocky
+        
+        Music for the run :  Holy Ghost by ASAP Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-25
+        
+        Time (minutes) : 22.733333333333334
+        
+        Distance (miles) : 3.2047209325
+        
+        Pace (minutes per mile) : 7:05
+        
+        Description : Great day let’s go!!!!
+
+Song OTD: LOVE by Kid Cudi
+        
+        Music for the run :  LOVE by Kid Cudi
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-27
+        
+        Time (minutes) : 30.866666666666667
+        
+        Distance (miles) : 3.1754543583999997
+        
+        Pace (minutes per mile) : 9:43
+        
+        Description : Wow central park is so dope
+
+Song OTD: Listen To The Music by The Doobie Brothers
+        
+        Music for the run :  Listen To The Music by The Doobie Brothers
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-28
+        
+        Time (minutes) : 13.733333333333333
+        
+        Distance (miles) : 2.0000068377
+        
+        Pace (minutes per mile) : 6:51
+        
+        Description : Forgot my watch again heres a photo
+
+Song OTD: On My Block by Scarface
+        
+        Music for the run :  On My Block by Scarface
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-30
+        
+        Time (minutes) : 23.866666666666667
+        
+        Distance (miles) : 3.3220357773
+        
+        Pace (minutes per mile) : 7:11
+        
+        Description : Airpod fell out and flew off the treadmill so had to stop abt a mile in
+
+Song OTD: For Once In My Life by Stevie Wonder
+        
+        Music for the run :  For Once In My Life by Stevie Wonder
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-03-31
+        
+        Time (minutes) : 14.35
+        
+        Distance (miles) : 2.0239917583
+        
+        Pace (minutes per mile) : 7:05
+        
+        Description : It’s fine I guess
+
+Song OTD: Better Things by ASAP Rocky
+        
+        Music for the run :  Better Things by ASAP Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-01
+        
+        Time (minutes) : 23.183333333333337
+        
+        Distance (miles) : 3.2063364971
+        
+        Pace (minutes per mile) : 7:13
+        
+        Description : Felt epic today
+
+Song OTD: Animal by Neon Trees
+        
+        Music for the run :  Animal by Neon Trees
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-03
+        
+        Time (minutes) : 12.116666666666667
+        
+        Distance (miles) : 1.6144461322
+        
+        Pace (minutes per mile) : 7:30
+        
+        Description : Long story basically airpods fell out had to pause workout so pt 2 coming
+
+Song OTD: Slide by Frank Ocean
+        
+        Music for the run :  Slide by Frank Ocean
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-03
+        
+        Time (minutes) : 13.55
+        
+        Distance (miles) : 1.7894242058
+        
+        Pace (minutes per mile) : 7:34
+        
+        Description : See other post
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-05
+        
+        Time (minutes) : 10.866666666666667
+        
+        Distance (miles) : 1.5360912491
+        
+        Pace (minutes per mile) : 7:04
+        
+        Description : So sick here
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-07
+        
+        Time (minutes) : 15.65
+        
+        Distance (miles) : 2.1902085008000003
+        
+        Pace (minutes per mile) : 7:08
+        
+        Description : Rough morning
+
+Song OTD: No Sleep by Wiz Khalifa
+        
+        Music for the run :  No Sleep by Wiz Khalifa
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-08
+        
+        Time (minutes) : 14.166666666666666
+        
+        Distance (miles) : 2.0309511135
+        
+        Pace (minutes per mile) : 6:58
+        
+        Description : Rough week this week
+
+Song OTD. Spaceship by Kanye West
+        
+        Music for the run : . Spaceship by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-10
+        
+        Time (minutes) : 22.75
+        
+        Distance (miles) : 3.1970159321
+        
+        Pace (minutes per mile) : 7:06
+        
+        Description : Wicked off this week
+
+Song OTD: Pop Thieves by Childish Gambino
+        
+        Music for the run :  Pop Thieves by Childish Gambino
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-10
+        
+        Time (minutes) : 14.066666666666666
+        
+        Distance (miles) : 2.0287141779
+        
+        Pace (minutes per mile) : 6:56
+        
+        Description : Feeling better today but got a ways to go
+
+Song OTD: Waiting On The World To Change by John Mayer
+        
+        Music for the run :  Waiting On The World To Change by John Mayer
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-12
+        
+        Time (minutes) : 20.533333333333335
+        
+        Distance (miles) : 2.6299527575
+        
+        Pace (minutes per mile) : 7:48
+        
+        Description : Song OTD: Everybody Talks by Neon Trees
+        
+        Music for the run :  Everybody Talks by Neon Trees
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-13
+        
+        Time (minutes) : 25.25
+        
+        Distance (miles) : 3.3386263830000003
+        
+        Pace (minutes per mile) : 7:33
+        
+        Description : Song OTD: Derek Fisher by Gunna
+        
+        Music for the run :  Derek Fisher by Gunna
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-15
+        
+        Time (minutes) : 23.95
+        
+        Distance (miles) : 3.2040995615
+        
+        Pace (minutes per mile) : 7:28
+        
+        Description : So damn needed. Got 2 root canals yesterday and was jsut a horrible day so got back at it today
+
+Song OTD: Juice by Chance the Rapper
+        
+        Music for the run :  Juice by Chance the Rapper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-16
+        
+        Time (minutes) : 14.4
+        
+        Distance (miles) : 2.0144226449
+        
+        Pace (minutes per mile) : 7:08
+        
+        Description : Had to go a little light on distance today
+
+Song OTD: Sad Machine by Porter Robinson
+        
+        Music for the run :  Sad Machine by Porter Robinson
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-17
+        
+        Time (minutes) : 8.333333333333334
+        
+        Distance (miles) : 1.1471751402
+        
+        Pace (minutes per mile) : 7:15
+        
+        Description : Tried something different by doing 1 hard mile, core, then 1 easy mile
+
+Song OTD: Digital Love by Daft Punk
+        
+        Music for the run :  Digital Love by Daft Punk
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-17
+        
+        Time (minutes) : 7.566666666666666
+        
+        Distance (miles) : 1.1077802188
+        
+        Pace (minutes per mile) : 6:49
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-18
+        
+        Time (minutes) : 23.666666666666668
+        
+        Distance (miles) : 3.2160920218
+        
+        Pace (minutes per mile) : 7:21
+        
+        Description : Let’s fucking gooo
+
+Song OTD: I Love You, I’m Sorry by Gracie Abrams
+        
+        Music for the run :  I Love You, I’m Sorry by Gracie Abrams
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-19
+        
+        Time (minutes) : 15.066666666666666
+        
+        Distance (miles) : 2.0184615564
+        
+        Pace (minutes per mile) : 7:27
+        
+        Description : Hungover but got myself together and ran to Win Son. So delicious
+
+Song OTD: Dance The Night by Dua Lipa
+        
+        Music for the run :  Dance The Night by Dua Lipa
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-21
+        
+        Time (minutes) : 7.45
+        
+        Distance (miles) : 1.0142017462
+        
+        Pace (minutes per mile) : 7:20
+        
+        Description : Did core run core
+
+Song OTD: Don’t Stop Me Now by Queen
+        
+        Music for the run :  Don’t Stop Me Now by Queen
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-21
+        
+        Time (minutes) : 8.066666666666666
+        
+        Distance (miles) : 1.0490606593
+        
+        Pace (minutes per mile) : 7:41
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-22
+        
+        Time (minutes) : 15.0
+        
+        Distance (miles) : 2.0635109539000003
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : This was pretty good but my legs are damn sore
+
+Song OTD: Coming Over by Dillon Francis
+        
+        Music for the run :  Coming Over by Dillon Francis
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-23
+        
+        Time (minutes) : 7.083333333333333
+        
+        Distance (miles) : 1.0212232385
+        
+        Pace (minutes per mile) : 6:56
+        
+        Description : Did some core and mailed it in this AM
+
+Song OTD: Vienna by Billy Joel
+        
+        Music for the run :  Vienna by Billy Joel
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-24
+        
+        Time (minutes) : 18.233333333333334
+        
+        Distance (miles) : 2.6160340471000003
+        
+        Pace (minutes per mile) : 6:58
+        
+        Description : 5k on Saturday in BKY I’m winning it
+
+Song OTD: Borderline by Tame Impala
+        
+        Music for the run :  Borderline by Tame Impala
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-26
+        
+        Time (minutes) : 22.45
+        
+        Distance (miles) : 3.0906372169
+        
+        Pace (minutes per mile) : 7:15
+        
+        Description : Gimme dat
+
+Song OTD: Lost In The World by Kanye West
+        
+        Music for the run :  Lost In The World by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-27
+        
+        Time (minutes) : 15.533333333333331
+        
+        Distance (miles) : 2.1342851108
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : Chill run
+
+Song OTD: Everything I Love by Morgan Wallen
+        
+        Music for the run :  Everything I Love by Morgan Wallen
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-28
+        
+        Time (minutes) : 8.316666666666666
+        
+        Distance (miles) : 1.1379788494
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : Mile core mile
+
+Song OTD: A Milli by Lil Wayne
+        
+        Music for the run :  A Milli by Lil Wayne
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-28
+        
+        Time (minutes) : 7.066666666666666
+        
+        Distance (miles) : 1.0237708596
+        
+        Pace (minutes per mile) : 6:54
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-29
+        
+        Time (minutes) : 15.866666666666667
+        
+        Distance (miles) : 2.223886809
+        
+        Pace (minutes per mile) : 7:08
+        
+        Description : Good times
+
+Song OTD: Lovesick by ASAP Rocky
+        
+        Music for the run :  Lovesick by ASAP Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-04-30
+        
+        Time (minutes) : 14.366666666666667
+        
+        Distance (miles) : 2.0142983706999997
+        
+        Pace (minutes per mile) : 7:07
+        
+        Description : Song OTD. Roses by the Chainsmokers
+        
+        Music for the run : . Roses by the Chainsmokers
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-01
+        
+        Time (minutes) : 18.883333333333333
+        
+        Distance (miles) : 2.4766605318000003
+        
+        Pace (minutes per mile) : 7:37
+        
+        Description : Felt p great
+
+Song OTD: Nothin On You by Bruno Mars and BoB
+        
+        Music for the run :  Nothin On You by Bruno Mars and BoB
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-02
+        
+        Time (minutes) : 15.65
+        
+        Distance (miles) : 2.1204285375
+        
+        Pace (minutes per mile) : 7:22
+        
+        Description : Song OTD: Love Me Not by Ravyn Lenae
+        
+        Music for the run :  Love Me Not by Ravyn Lenae
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-03
+        
+        Time (minutes) : 6.716666666666667
+        
+        Distance (miles) : 1.0067452942
+        
+        Pace (minutes per mile) : 6:40
+        
+        Description : Forgot to upload all my runs past week
+
+Song OTD: So Good by BoB
+        
+        Music for the run :  So Good by BoB
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-04
+        
+        Time (minutes) : 7.05
+        
+        Distance (miles) : 1.0239572709
+        
+        Pace (minutes per mile) : 6:53
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-04
+        
+        Time (minutes) : 8.1
+        
+        Distance (miles) : 1.1076559446
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : Song OTD: Levels by Avicii
+        
+        Music for the run :  Levels by Avicii
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-05
+        
+        Time (minutes) : 16.733333333333334
+        
+        Distance (miles) : 2.3329374195
+        
+        Pace (minutes per mile) : 7:10
+        
+        Description : Legs are so damn sore
+
+Song OTD: Guess Who’s Back by Rakim
+        
+        Music for the run :  Guess Who’s Back by Rakim
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-06
+        
+        Time (minutes) : 7.516666666666667
+        
+        Distance (miles) : 1.0643463859
+        
+        Pace (minutes per mile) : 7:03
+        
+        Description : Boring
+
+Song OTD: Hard Times by Paramore
+        
+        Music for the run :  Hard Times by Paramore
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-07
+        
+        Time (minutes) : 17.233333333333334
+        
+        Distance (miles) : 2.4230362145
+        
+        Pace (minutes per mile) : 7:06
+        
+        Description : Pace is wrong closer to 7:15 cuz didnt use Apple watch
+
+Song OTD: Pursuit of Happiness by Kid Cudi
+        
+        Music for the run :  Pursuit of Happiness by Kid Cudi
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-07
+        
+        Time (minutes) : 15.983333333333333
+        
+        Distance (miles) : 2.0000068377
+        
+        Pace (minutes per mile) : 7:59
+        
+        Description : Did something calm today gotta cool my legs down a bit
+
+Song OTD: Runaway by Kanye West
+        
+        Music for the run :  Runaway by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-11
+        
+        Time (minutes) : 22.316666666666663
+        
+        Distance (miles) : 3.0187445922
+        
+        Pace (minutes per mile) : 7:23
+        
+        Description : This was nice
+
+Song OTD: Flashed Junk Mind by Milky Chance
+        
+        Music for the run :  Flashed Junk Mind by Milky Chance
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-12
+        
+        Time (minutes) : 7.883333333333334
+        
+        Distance (miles) : 1.0582569501
+        
+        Pace (minutes per mile) : 7:26
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-12
+        
+        Time (minutes) : 7.083333333333333
+        
+        Distance (miles) : 1.0217203353
+        
+        Pace (minutes per mile) : 6:55
+        
+        Description : Following 2 runs are a hard mile, core, easy mile workout
+
+Song OTD: 92 Explorer by Post Malone
+        
+        Music for the run :  92 Explorer by Post Malone
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-14
+        
+        Time (minutes) : 6.883333333333334
+        
+        Distance (miles) : 1.0156930366
+        
+        Pace (minutes per mile) : 6:46
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-15
+        
+        Time (minutes) : 16.216666666666665
+        
+        Distance (miles) : 2.1988455577
+        
+        Pace (minutes per mile) : 7:22
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-16
+        
+        Time (minutes) : 23.883333333333333
+        
+        Distance (miles) : 3.2470984347
+        
+        Pace (minutes per mile) : 7:21
+        
+        Description : Wee woo
+
+Song OTD: Gravity by Brent Faiyaz
+        
+        Music for the run :  Gravity by Brent Faiyaz
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-18
+        
+        Time (minutes) : 9.133333333333333
+        
+        Distance (miles) : 1.2852437764
+        
+        Pace (minutes per mile) : 7:06
+        
+        Description : Went to go see my friends at Idaho
+
+Song OTD: Sweet Escape by Gwen Stefani
+        
+        Music for the run :  Sweet Escape by Gwen Stefani
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-19
+        
+        Time (minutes) : 7.133333333333334
+        
+        Distance (miles) : 1.0207882788
+        
+        Pace (minutes per mile) : 6:59
+        
+        Description : Song OTD: Work by Gang Starr
+        
+        Music for the run :  Work by Gang Starr
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-20
+        
+        Time (minutes) : 23.916666666666668
+        
+        Distance (miles) : 3.2716425892
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : Song OTD: Prom Night by Chance the Rapper
+        
+        Music for the run :  Prom Night by Chance the Rapper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-21
+        
+        Time (minutes) : 7.1
+        
+        Distance (miles) : 1.0136425123
+        
+        Pace (minutes per mile) : 7:00
+        
+        Description : Slacking w my uploads
+
+Song OTD: Under The Weather by Brent Faiyaz
+        
+        Music for the run :  Under The Weather by Brent Faiyaz
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-22
+        
+        Time (minutes) : 16.15
+        
+        Distance (miles) : 2.1838705166
+        
+        Pace (minutes per mile) : 7:23
+        
+        Description : 2 miles, core, then 2 miles lets go baby
+
+Song OTD: In Vein by The Weeknd
+        
+        Music for the run :  In Vein by The Weeknd
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-22
+        
+        Time (minutes) : 15.616666666666667
+        
+        Distance (miles) : 2.1267043846
+        
+        Pace (minutes per mile) : 7:20
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-24
+        
+        Time (minutes) : 7.016666666666667
+        
+        Distance (miles) : 1.0066831571
+        
+        Pace (minutes per mile) : 6:58
+        
+        Description : Song OTD: Kids by MGMT
+        
+        Music for the run :  Kids by MGMT
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-24
+        
+        Time (minutes) : 7.716666666666667
+        
+        Distance (miles) : 1.0564549742
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : Post fisher hurting so so badly
+
+Song OTD: Highjack Remix by ASAP Rocky
+        
+        Music for the run :  Highjack Remix by ASAP Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-26
+        
+        Time (minutes) : 14.233333333333333
+        
+        Distance (miles) : 2.0103215963000003
+        
+        Pace (minutes per mile) : 7:04
+        
+        Description : Song OTD: TAKE IT OFF by Fisher
+        
+        Music for the run :  TAKE IT OFF by Fisher
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-27
+        
+        Time (minutes) : 23.566666666666663
+        
+        Distance (miles) : 3.2371564987
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : Song OTD: So High by Wiz Khalifa
+        
+        Music for the run :  So High by Wiz Khalifa
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-28
+        
+        Time (minutes) : 14.05
+        
+        Distance (miles) : 2.0156653869000003
+        
+        Pace (minutes per mile) : 6:58
+        
+        Description : Song OTD: Borderline by Tame Impala
+        
+        Music for the run :  Borderline by Tame Impala
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-05-31
+        
+        Time (minutes) : 8.666666666666666
+        
+        Distance (miles) : 1.1622744555
+        
+        Pace (minutes per mile) : 7:27
+        
+        Description : Ethan and I ran to VAD after a long night
+
+Song OTD: Stolen Dance by Milky Chance
+        
+        Music for the run :  Stolen Dance by Milky Chance
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-02
+        
+        Time (minutes) : 10.933333333333334
+        
+        Distance (miles) : 1.4467380993
+        
+        Pace (minutes per mile) : 7:33
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-02
+        
+        Time (minutes) : 13.683333333333334
+        
+        Distance (miles) : 1.7558701718
+        
+        Pace (minutes per mile) : 7:47
+        
+        Description : Song OTD: Hip Hop Saved My Life by Lupe Fiasco
+        
+        Music for the run :  Hip Hop Saved My Life by Lupe Fiasco
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-03
+        
+        Time (minutes) : 17.0
+        
+        Distance (miles) : 2.3058456439
+        
+        Pace (minutes per mile) : 7:22
+        
+        Description : Song OTD: Patty Cake by Kodak Black
+        
+        Music for the run :  Patty Cake by Kodak Black
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-04
+        
+        Time (minutes) : 17.466666666666665
+        
+        Distance (miles) : 2.3579786708
+        
+        Pace (minutes per mile) : 7:24
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-05
+        
+        Time (minutes) : 16.6
+        
+        Distance (miles) : 2.0278442585
+        
+        Pace (minutes per mile) : 8:11
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-06
+        
+        Time (minutes) : 14.883333333333333
+        
+        Distance (miles) : 2.0133663142
+        
+        Pace (minutes per mile) : 7:23
+        
+        Description : Conditioning has been just awful recently
+
+Song OTD: RATHER LIE by Playboi Carti
+        
+        Music for the run :  RATHER LIE by Playboi Carti
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-08
+        
+        Time (minutes) : 7.383333333333334
+        
+        Distance (miles) : 1.0092929153
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-08
+        
+        Time (minutes) : 7.066666666666666
+        
+        Distance (miles) : 1.0101006976
+        
+        Pace (minutes per mile) : 6:59
+        
+        Description : Song OTD: Wouldn’t It Be Nice by The Beach Boys
+        
+        Music for the run :  Wouldn’t It Be Nice by The Beach Boys
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-09
+        
+        Time (minutes) : 18.533333333333335
+        
+        Distance (miles) : 2.499154162
+        
+        Pace (minutes per mile) : 7:24
+        
+        Description : Song OTD: Stargirl Interlude by The Weeknd
+        
+        Music for the run :  Stargirl Interlude by The Weeknd
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-11
+        
+        Time (minutes) : 17.633333333333333
+        
+        Distance (miles) : 2.4183137949
+        
+        Pace (minutes per mile) : 7:17
+        
+        Description : Song OTD: Dark Fantasy by Kanye West
+        
+        Music for the run :  Dark Fantasy by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-12
+        
+        Time (minutes) : 15.05
+        
+        Distance (miles) : 2.0183372822
+        
+        Pace (minutes per mile) : 7:27
+        
+        Description : Song OTD Ventura Highway by America
+        
+        Music for the run :  Ventura Highway by America
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-13
+        
+        Time (minutes) : 14.916666666666666
+        
+        Distance (miles) : 2.0062205477
+        
+        Pace (minutes per mile) : 7:26
+        
+        Description : Song OTD: Dead Presidents II by Jay Z
+        
+        Music for the run :  Dead Presidents II by Jay Z
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-15
+        
+        Time (minutes) : 7.616666666666666
+        
+        Distance (miles) : 1.0081123104
+        
+        Pace (minutes per mile) : 7:33
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-16
+        
+        Time (minutes) : 18.583333333333332
+        
+        Distance (miles) : 2.3887986724
+        
+        Pace (minutes per mile) : 7:46
+        
+        Description : Something so light
+
+Song OTD: What They Do by The Roots
+        
+        Music for the run :  What They Do by The Roots
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-17
+        
+        Time (minutes) : 16.3
+        
+        Distance (miles) : 2.2295412851
+        
+        Pace (minutes per mile) : 7:18
+        
+        Description : Song OTD: CREAM by Wu Tang Clan
+        
+        Music for the run :  CREAM by Wu Tang Clan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-18
+        
+        Time (minutes) : 6.733333333333333
+        
+        Distance (miles) : 1.0154444882
+        
+        Pace (minutes per mile) : 6:37
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-18
+        
+        Time (minutes) : 7.483333333333333
+        
+        Distance (miles) : 1.0020228746
+        
+        Pace (minutes per mile) : 7:28
+        
+        Description : Interval training w core
+
+Song OTD: Heard It Through the Grapevine by Marvin Gaye
+        
+        Music for the run :  Heard It Through the Grapevine by Marvin Gaye
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-19
+        
+        Time (minutes) : 12.45
+        
+        Distance (miles) : 1.710012992
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-22
+        
+        Time (minutes) : 7.033333333333333
+        
+        Distance (miles) : 1.0399886427
+        
+        Pace (minutes per mile) : 6:45
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-22
+        
+        Time (minutes) : 8.166666666666666
+        
+        Distance (miles) : 1.1098307431
+        
+        Pace (minutes per mile) : 7:21
+        
+        Description : 1 mile core 1 mile
+
+Song OTD: Thank God by Travis Scott
+        
+        Music for the run :  Thank God by Travis Scott
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-23
+        
+        Time (minutes) : 16.883333333333333
+        
+        Distance (miles) : 2.3037951196
+        
+        Pace (minutes per mile) : 7:19
+        
+        Description : Song OTD: That’s Life by Mac Miller
+        
+        Music for the run :  That’s Life by Mac Miller
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-26
+        
+        Time (minutes) : 16.683333333333334
+        
+        Distance (miles) : 2.3169060477
+        
+        Pace (minutes per mile) : 7:12
+        
+        Description : Song OTD: Deja Vu by Olivia Rodrigo
+        
+        Music for the run :  Deja Vu by Olivia Rodrigo
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-27
+        
+        Time (minutes) : 17.466666666666665
+        
+        Distance (miles) : 2.4002940359
+        
+        Pace (minutes per mile) : 7:16
+        
+        Description : S/o Reed Sullivan 
+
+Song OTD: Waterboy by Tobi Lou
+        
+        Music for the run :  Waterboy by Tobi Lou
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-06-29
+        
+        Time (minutes) : 23.25
+        
+        Distance (miles) : 3.0236534231000003
+        
+        Pace (minutes per mile) : 7:41
+        
+        Description : Song OTD: Beat It by Michael Jackson
+        
+        Music for the run :  Beat It by Michael Jackson
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-01
+        
+        Time (minutes) : 14.416666666666666
+        
+        Distance (miles) : 2.0110051044
+        
+        Pace (minutes per mile) : 7:10
+        
+        Description : This shit was so weak
+
+Song OTD: FACE by Brockhampton
+        
+        Music for the run :  FACE by Brockhampton
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-02
+        
+        Time (minutes) : 31.15
+        
+        Distance (miles) : 4.0205189184
+        
+        Pace (minutes per mile) : 7:44
+        
+        Description : Whewwwwwwww!!!!
+
+Song OTD: Succession Theme Song
+        
+        Music for the run :  Succession Theme Song
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-03
+        
+        Time (minutes) : 16.166666666666668
+        
+        Distance (miles) : 2.0052263541
+        
+        Pace (minutes per mile) : 8:03
+        
+        Description : Song OTD: Great Day To Be Alive by Travis Tritt
+        
+        Music for the run :  Great Day To Be Alive by Travis Tritt
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-05
+        
+        Time (minutes) : 7.883333333333334
+        
+        Distance (miles) : 1.0291146502
+        
+        Pace (minutes per mile) : 7:39
+        
+        Description : Hangover jog just to shake the hangxiety doesnt deserve a song otd
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-05
+        
+        Time (minutes) : 23.316666666666663
+        
+        Distance (miles) : 3.0175639873
+        
+        Pace (minutes per mile) : 7:43
+        
+        Description : Song OTD: Poetic Justice by Kendrick Lanar
+        
+        Music for the run :  Poetic Justice by Kendrick Lanar
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-07
+        
+        Time (minutes) : 14.366666666666667
+        
+        Distance (miles) : 2.0268500649
+        
+        Pace (minutes per mile) : 7:05
+        
+        Description : I might be repeating song otds atp
+
+Song OTD: No More Mr. Nice Guy by Alice Cooper
+        
+        Music for the run :  No More Mr. Nice Guy by Alice Cooper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-09
+        
+        Time (minutes) : 11.383333333333333
+        
+        Distance (miles) : 1.589467018
+        
+        Pace (minutes per mile) : 7:09
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-10
+        
+        Time (minutes) : 16.383333333333333
+        
+        Distance (miles) : 2.2333937853
+        
+        Pace (minutes per mile) : 7:20
+        
+        Description : Song OTD: Tumbling Dice by the Rolling Stones
+        
+        Music for the run :  Tumbling Dice by the Rolling Stones
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-12
+        
+        Time (minutes) : 7.266666666666667
+        
+        Distance (miles) : 1.0026442456
+        
+        Pace (minutes per mile) : 7:14
+        
+        Description : Song OTD: Vacay by Amine
+        
+        Music for the run :  Vacay by Amine
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-15
+        
+        Time (minutes) : 15.516666666666667
+        
+        Distance (miles) : 2.0583535746
+        
+        Pace (minutes per mile) : 7:32
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-15
+        
+        Time (minutes) : 15.466666666666669
+        
+        Distance (miles) : 2.0445591384
+        
+        Pace (minutes per mile) : 7:33
+        
+        Description : Finally back on the horse. East village now baby. Bottom 2 runs are same workout
+
+Song OTD: Champain and Vacay by Travis Scott
+        
+        Music for the run :  Champain and Vacay by Travis Scott
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-16
+        
+        Time (minutes) : 17.6
+        
+        Distance (miles) : 2.2480581409
+        
+        Pace (minutes per mile) : 7:49
+        
+        Description : New hood. I feel so out of shape
+
+Song OTD: Pacifier by Young Thug
+        
+        Music for the run :  Pacifier by Young Thug
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-18
+        
+        Time (minutes) : 19.733333333333334
+        
+        Distance (miles) : 2.6542483636000003
+        
+        Pace (minutes per mile) : 7:26
+        
+        Description : Out of shape gotta get faster.
+
+Song OTD: Sleep All Day by Sean Kingston
+        
+        Music for the run :  Sleep All Day by Sean Kingston
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-20
+        
+        Time (minutes) : 23.65
+        
+        Distance (miles) : 3.0060064867
+        
+        Pace (minutes per mile) : 7:52
+        
+        Description : Fun times
+
+Song OTD: The Bigger Picture by Lil Baby
+        
+        Music for the run :  The Bigger Picture by Lil Baby
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-21
+        
+        Time (minutes) : 23.016666666666666
+        
+        Distance (miles) : 3.0094240272
+        
+        Pace (minutes per mile) : 7:38
+        
+        Description : We paid
+
+Song OTD: Californication by RHCP
+        
+        Music for the run :  Californication by RHCP
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-22
+        
+        Time (minutes) : 11.883333333333333
+        
+        Distance (miles) : 1.5467788303
+        
+        Pace (minutes per mile) : 7:40
+        
+        Description : Total mail-in
+
+Song OTD: Ice Melts by Drake
+        
+        Music for the run :  Ice Melts by Drake
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-24
+        
+        Time (minutes) : 23.116666666666667
+        
+        Distance (miles) : 3.0190552777
+        
+        Pace (minutes per mile) : 7:39
+        
+        Description : So stressed w life
+
+Song OTD: Pop Star by DaBaby
+        
+        Music for the run :  Pop Star by DaBaby
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-27
+        
+        Time (minutes) : 31.333333333333332
+        
+        Distance (miles) : 4.0200839587
+        
+        Pace (minutes per mile) : 7:47
+        
+        Description : This could be the best run ive ever had. 3.2-3.7 was craziest runners high ever
+
+Song OTD: Impossible Year by Panic At The Disco
+        
+        Music for the run :  Impossible Year by Panic At The Disco
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-27
+        
+        Time (minutes) : 22.7
+        
+        Distance (miles) : 3.0060686238
+        
+        Pace (minutes per mile) : 7:33
+        
+        Description : Gut yontif
+
+Song OTD: Had Enough by Don Toliver
+        
+        Music for the run :  Had Enough by Don Toliver
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-28
+        
+        Time (minutes) : 11.216666666666669
+        
+        Distance (miles) : 1.4858223352
+        
+        Pace (minutes per mile) : 7:32
+        
+        Description : Did 2 miles and core
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-28
+        
+        Time (minutes) : 7.75
+        
+        Distance (miles) : 1.0069317055
+        
+        Pace (minutes per mile) : 7:41
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-07-31
+        
+        Time (minutes) : 15.666666666666666
+        
+        Distance (miles) : 2.0947659152
+        
+        Pace (minutes per mile) : 7:28
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-01
+        
+        Time (minutes) : 20.666666666666668
+        
+        Distance (miles) : 2.7406189326000003
+        
+        Pace (minutes per mile) : 7:32
+        
+        Description : Beautiful morning
+
+Song OTD: Get Out by CHVRCHES
+        
+        Music for the run :  Get Out by CHVRCHES
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-01
+        
+        Time (minutes) : 20.033333333333335
+        
+        Distance (miles) : 2.6983657046000005
+        
+        Pace (minutes per mile) : 7:25
+        
+        Description : Evanston
+
+Song OTD: Pursuit of Happiness by Kid Cudi
+        
+        Music for the run :  Pursuit of Happiness by Kid Cudi
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-03
+        
+        Time (minutes) : 14.533333333333331
+        
+        Distance (miles) : 2.0213820001
+        
+        Pace (minutes per mile) : 7:11
+        
+        Description : Song OTD: Busy Woman by Sabrina Carpenter
+        
+        Music for the run :  Busy Woman by Sabrina Carpenter
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-04
+        
+        Time (minutes) : 22.183333333333337
+        
+        Distance (miles) : 3.0032103172
+        
+        Pace (minutes per mile) : 7:23
+        
+        Description : Good time
+
+Song OTD: Telepatia by Kali Uchis
+        
+        Music for the run :  Telepatia by Kali Uchis
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-05
+        
+        Time (minutes) : 32.416666666666664
+        
+        Distance (miles) : 3.1456906875
+        
+        Pace (minutes per mile) : 10:18
+        
+        Description : Song OTD: 1train by Asap Rocky
+        
+        Music for the run :  1train by Asap Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-06
+        
+        Time (minutes) : 22.566666666666663
+        
+        Distance (miles) : 3.0169426163
+        
+        Pace (minutes per mile) : 7:28
+        
+        Description : Song OTD: Dance The Way I Feel by Ou Est Le Swimming Pool
+        
+        Music for the run :  Dance The Way I Feel by Ou Est Le Swimming Pool
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-08
+        
+        Time (minutes) : 24.15
+        
+        Distance (miles) : 3.1048666128
+        
+        Pace (minutes per mile) : 7:46
+        
+        Description : Getting to a point where I’m going 3+ every day, feels great
+
+Song OTD: LVL by Asap Rocky
+        
+        Music for the run :  LVL by Asap Rocky
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-09
+        
+        Time (minutes) : 10.95
+        
+        Distance (miles) : 1.5099936671
+        
+        Pace (minutes per mile) : 7:15
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-10
+        
+        Time (minutes) : 23.25
+        
+        Distance (miles) : 3.0017811639
+        
+        Pace (minutes per mile) : 7:44
+        
+        Description : Song OTD: Hello by Dragonette
+        
+        Music for the run :  Hello by Dragonette
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-11
+        
+        Time (minutes) : 33.766666666666666
+        
+        Distance (miles) : 3.0291214879
+        
+        Pace (minutes per mile) : 11:08
+        
+        Description : Song OTD: Jumpman by Drake / Future
+        
+        Music for the run :  Jumpman by Drake / Future
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-12
+        
+        Time (minutes) : 30.766666666666666
+        
+        Distance (miles) : 4.0218237975
+        
+        Pace (minutes per mile) : 7:38
+        
+        Description : Song OTD: Dancin - Krono Remix
+        
+        Music for the run :  Dancin - Krono Remix
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-13
+        
+        Time (minutes) : 17.083333333333332
+        
+        Distance (miles) : 2.1620603945
+        
+        Pace (minutes per mile) : 7:54
+        
+        Description : Song OTD: The Man Who Has Everything by Chance the Rapper
+        
+        Music for the run :  The Man Who Has Everything by Chance the Rapper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-14
+        
+        Time (minutes) : 16.383333333333333
+        
+        Distance (miles) : 2.1386968449
+        
+        Pace (minutes per mile) : 7:39
+        
+        Description : Song OTD: I Might Need Security by Chance the Rapper
+        
+        Music for the run :  I Might Need Security by Chance the Rapper
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-15
+        
+        Time (minutes) : 35.85
+        
+        Distance (miles) : 3.0170668905
+        
+        Pace (minutes per mile) : 11:52
+        
+        Description : Song OTD: Lovefool by the Cardigans
+        
+        Music for the run :  Lovefool by the Cardigans
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-17
+        
+        Time (minutes) : 31.45
+        
+        Distance (miles) : 4.0071594419
+        
+        Pace (minutes per mile) : 7:50
+        
+        Description : That’s 400 miles on the year
+
+Song OTD: Impossible Year by Panic At The Disco
+        
+        Music for the run :  Impossible Year by Panic At The Disco
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-18
+        
+        Time (minutes) : 14.283333333333331
+        
+        Distance (miles) : 2.0156032498000003
+        
+        Pace (minutes per mile) : 7:05
+        
+        Description : Tried to hit the gas a little harder on this
+
+Song OTD: Flood Watch by Juicy J
+        
+        Music for the run :  Flood Watch by Juicy J
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-21
+        
+        Time (minutes) : 31.3
+        
+        Distance (miles) : 4.0149887165
+        
+        Pace (minutes per mile) : 7:47
+        
+        Description : Song OTD: 92 Explorer by Post Malone
+        
+        Music for the run :  92 Explorer by Post Malone
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-22
+        
+        Time (minutes) : 15.3
+        
+        Distance (miles) : 2.0054749025
+        
+        Pace (minutes per mile) : 7:37
+        
+        Description : Hangover mail-in
+
+Song OTD: Murder on the Dance Floor by Sophie Ellis Baxtor
+        
+        Music for the run :  Murder on the Dance Floor by Sophie Ellis Baxtor
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-23
+        
+        Time (minutes) : 23.916666666666668
+        
+        Distance (miles) : 3.0078084626000003
+        
+        Pace (minutes per mile) : 7:57
+        
+        Description : Song OTD: Baby by Lil Baby and DaBaby
+        
+        Music for the run :  Baby by Lil Baby and DaBaby
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-25
+        
+        Time (minutes) : 36.483333333333334
+        
+        Distance (miles) : 3.0566482232
+        
+        Pace (minutes per mile) : 11:56
+        
+        Description : Mids
+
+Song OTD: Love You Down by Offset
+        
+        Music for the run :  Love You Down by Offset
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-27
+        
+        Time (minutes) : 25.05
+        
+        Distance (miles) : 3.1669415757
+        
+        Pace (minutes per mile) : 7:54
+        
+        Description : Song OTD: Starboy by the Weeknd
+        
+        Music for the run :  Starboy by the Weeknd
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-28
+        
+        Time (minutes) : 16.033333333333335
+        
+        Distance (miles) : 2.012620669
+        
+        Pace (minutes per mile) : 7:57
+        
+        Description : Mail in but life is so good
+
+Song OTD: BLEACH by Brockhampton
+        
+        Music for the run :  BLEACH by Brockhampton
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-30
+        
+        Time (minutes) : 25.4
+        
+        Distance (miles) : 3.2147871427
+        
+        Pace (minutes per mile) : 7:54
+        
+        Description : Best place on Earth
+
+Song OTD: Bedrock by Young Money
+        
+        Music for the run :  Bedrock by Young Money
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-08-31
+        
+        Time (minutes) : 25.0
+        
+        Distance (miles) : 3.1999985128999997
+        
+        Pace (minutes per mile) : 7:48
+        
+        Description : Congrats Sam Stager
+
+Song OTD: Viva la Vida by Coldplay
+        
+        Music for the run :  Viva la Vida by Coldplay
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-03
+        
+        Time (minutes) : 39.65
+        
+        Distance (miles) : 5.0376411083
+        
+        Pace (minutes per mile) : 7:52
+        
+        Description : Back from Italy and somehow had the best run of my life. Couldve go for 7
+
+Song OTD: Champions by Kanye West
+        
+        Music for the run :  Champions by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-04
+        
+        Time (minutes) : 15.116666666666667
+        
+        Distance (miles) : 2.0056613138
+        
+        Pace (minutes per mile) : 7:32
+        
+        Description : Mids
+
+Song OTD: STAR by Brockhampton
+        
+        Music for the run :  STAR by Brockhampton
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-05
+        
+        Time (minutes) : 16.216666666666665
+        
+        Distance (miles) : 2.0674877283
+        
+        Pace (minutes per mile) : 7:50
+        
+        Description : Think I have achilles tendonitis so may be some time off
+
+Song OTD: World on Fire by The Royal Concept
+        
+        Music for the run :  World on Fire by The Royal Concept
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-08
+        
+        Time (minutes) : 28.416666666666668
+        
+        Distance (miles) : 3.5993536546
+        
+        Pace (minutes per mile) : 7:53
+        
+        Description : Had to cut would be a generational run short bc of achilles, I’m calling it for a week
+
+Song OTD: Goodbyes by Post Malone
+        
+        Music for the run :  Goodbyes by Post Malone
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-15
+        
+        Time (minutes) : 36.233333333333334
+        
+        Distance (miles) : 3.493347762
+        
+        Pace (minutes per mile) : 10:22
+        
+        Description : We are *hopefully* so back, cut it short to make sure i didnt flare my achilles
+
+Song OTD: I’m A God by Kanye West
+        
+        Music for the run :  I’m A God by Kanye West
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-16
+        
+        Time (minutes) : 12.533333333333331
+        
+        Distance (miles) : 1.631720246
+        
+        Pace (minutes per mile) : 7:40
+        
+        Description : Song OTD: Cooler Than a Bitch by Gunna
+        
+        Music for the run :  Cooler Than a Bitch by Gunna
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-17
+        
+        Time (minutes) : 24.6
+        
+        Distance (miles) : 3.103748145
+        
+        Pace (minutes per mile) : 7:55
+        
+        Description : Taking it easy 
+
+Song OTD: Go Go Juice by Sabrina Carpenter
+        
+        Music for the run :  Go Go Juice by Sabrina Carpenter
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-18
+        
+        Time (minutes) : 16.65
+        
+        Distance (miles) : 2.122603336
+        
+        Pace (minutes per mile) : 7:50
+        
+        Description : Somethingsuper light s/o Reed Sullivan  for some helpful achilles tips
+
+Song OTD: Mood Swings by Pop Smoke
+        
+        Music for the run :  Mood Swings by Pop Smoke
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-19
+        
+        Time (minutes) : 29.016666666666666
+        
+        Distance (miles) : 3.7356203149
+        
+        Pace (minutes per mile) : 7:46
+        
+        Description : Just move on up
+
+Song OTD: Omertá by Drake
+        
+        Music for the run :  Omertá by Drake
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-20
+        
+        Time (minutes) : 15.016666666666667
+        
+        Distance (miles) : 2.0162246208
+        
+        Pace (minutes per mile) : 7:26
+        
+        Description : Rmfw
+
+Song OTD: Lovely Day by Bill Withers
+        
+        Music for the run :  Lovely Day by Bill Withers
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-21
+        
+        Time (minutes) : 15.066666666666666
+        
+        Distance (miles) : 2.0255451858
+        
+        Pace (minutes per mile) : 7:26
+        
+        Description : Yaa
+
+Song OTD: Zack and Codeine by Post Malone
+        
+        Music for the run :  Zack and Codeine by Post Malone
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-25
+        
+        Time (minutes) : 35.8
+        
+        Distance (miles) : 4.5358218887
+        
+        Pace (minutes per mile) : 7:53
+        
+        Description : Song OTD: 2 Vaults by Tee Grizzley
+        
+        Music for the run :  2 Vaults by Tee Grizzley
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-26
+        
+        Time (minutes) : 30.016666666666666
+        
+        Distance (miles) : 3.8296958843
+        
+        Pace (minutes per mile) : 7:50
+        
+        Description : Signed up for the half marathon in december so training starts now. 33% run 66% jog
+
+Song OTD: Gone Gone by Tyler The Creator
+        
+        Music for the run :  Gone Gone by Tyler The Creator
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-28
+        
+        Time (minutes) : 42.833333333333336
+        
+        Distance (miles) : 5.004522034
+        
+        Pace (minutes per mile) : 8:33
+        
+        Description : 5 mile long run supposed to be at slowest pace possible
+
+Song OTD: It Might Be Time by Tame Impala
+        
+        Music for the run :  It Might Be Time by Tame Impala
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-09-30
+        
+        Time (minutes) : 40.05
+        
+        Distance (miles) : 4.7753604092
+        
+        Pace (minutes per mile) : 8:23
+        
+        Description : Flipping deez packs deez packs bust it down buy a whip ms daisy. This was supposed to be 40 min jog for training
+
+Song OTD: So High by Wiz Khalifa
+        
+        Music for the run :  So High by Wiz Khalifa
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-03
+        
+        Time (minutes) : 30.033333333333335
+        
+        Distance (miles) : 3.9825531503
+        
+        Pace (minutes per mile) : 7:32
+        
+        Description : 33% race pace 66% jog for trainig for 30 mins
+
+Song OTD: Myron by Lil Uzi Vert
+        
+        Music for the run :  Myron by Lil Uzi Vert
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-05
+        
+        Time (minutes) : 40.56666666666667
+        
+        Distance (miles) : 5.0177572363000005
+        
+        Pace (minutes per mile) : 8:05
+        
+        Description : 5 miles @ race pace
+
+Song OTD: Jimmy Cooks by Drake
+        
+        Music for the run :  Jimmy Cooks by Drake
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-07
+        
+        Time (minutes) : 40.05
+        
+        Distance (miles) : 5.1272428065
+        
+        Pace (minutes per mile) : 7:48
+        
+        Description : Call me Ben Simmons cause I ain’t playing
+
+40 min jog
+
+Song OTD: Control by Kendrick Lamar
+        
+        Music for the run :  Control by Kendrick Lamar
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-11
+        
+        Time (minutes) : 30.483333333333334
+        
+        Distance (miles) : 4.0019399255
+        
+        Pace (minutes per mile) : 7:37
+        
+        Description : 33% hard 66% easy
+
+Song OTD: One Mic One Gun by 21 Savage
+        
+        Music for the run :  One Mic One Gun by 21 Savage
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-13
+        
+        Time (minutes) : 24.233333333333334
+        
+        Distance (miles) : 3.0127794306
+        
+        Pace (minutes per mile) : 8:02
+        
+        Description : Crunch kicked me out cuz they wereclosing, this was supposed to be 6 mile jog. Oh well.
+500 miles on the year!!
+
+Song OTD: Ass Back Home by Gym Class Heroes
+        
+        Music for the run :  Ass Back Home by Gym Class Heroes
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-14
+        
+        Time (minutes) : 30.283333333333335
+        
+        Distance (miles) : 3.4768814305
+        
+        Pace (minutes per mile) : 8:42
+        
+        Description : Extremely extremely light jog
+
+Song OTD: 90210 by Travis Scott
+        
+        Music for the run :  90210 by Travis Scott
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-14
+        
+        Time (minutes) : 34.5
+        
+        Distance (miles) : 4.0999922693
+        
+        Pace (minutes per mile) : 8:24
+        
+        Description : Did 2 and 2 to make up for 3 yesterday. Chill pace
+
+Song OTD: Stay The Night by Zedd
+        
+        Music for the run :  Stay The Night by Zedd
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-15
+        
+        Time (minutes) : 11.7
+        
+        Distance (miles) : 1.5672840733000002
+        
+        Pace (minutes per mile) : 7:27
+        
+        Description : Quick jog + core
+
+Song OTD: Costa Rice by Dreamville
+        
+        Music for the run :  Costa Rice by Dreamville
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-17
+        
+        Time (minutes) : 30.033333333333335
+        
+        Distance (miles) : 3.8808968547
+        
+        Pace (minutes per mile) : 7:44
+        
+        Description : 33% run 66% jog
+
+Song OTD: Didn’t I by Darrondo
+        
+        Music for the run :  Didn’t I by Darrondo
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-19
+        
+        Time (minutes) : 50.18333333333333
+        
+        Distance (miles) : 6.018102409200001
+        
+        Pace (minutes per mile) : 8:20
+        
+        Description : Longest run ever halfway to half😝
+
+Song OTD: No Flockin’ by Kodak Black
+        
+        Music for the run :  No Flockin’ by Kodak Black
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-21
+        
+        Time (minutes) : 44.1
+        
+        Distance (miles) : 5.3826884246
+        
+        Pace (minutes per mile) : 8:11
+        
+        Description : 45 min jog, this felt like absolute ass. Maybe im a lil run down
+
+Song OTD: Paper Trails by Joey Badass
+        
+        Music for the run :  Paper Trails by Joey Badass
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-24
+        
+        Time (minutes) : 36.38333333333333
+        
+        Distance (miles) : 4.5709293502
+        
+        Pace (minutes per mile) : 7:57
+        
+        Description : 33% run 66% jog
+
+Song OTD: No Sleep Leak by Lil Uzi Vert
+        
+        Music for the run :  No Sleep Leak by Lil Uzi Vert
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-26
+        
+        Time (minutes) : 35.93333333333333
+        
+        Distance (miles) : 3.9920601266
+        
+        Pace (minutes per mile) : 9:00
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-29
+        
+        Time (minutes) : 36.81666666666667
+        
+        Distance (miles) : 4.5335849531
+        
+        Pace (minutes per mile) : 8:07
+        
+        Description : Getting over stomach flu. Gotta hit 7 miles by Sunday
+
+Song OTD: Faneto by Chief Keef
+        
+        Music for the run :  Faneto by Chief Keef
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-10-31
+        
+        Time (minutes) : 50.05
+        
+        Distance (miles) : 6.185002659799999
+        
+        Pace (minutes per mile) : 8:05
+        
+        Description : This was supposed to be 50 minute intervals but just made it a 50 min run. Absolute bitch but we persist
+
+Song OTD: Through The Fire and Flames by Dragonforce
+        
+        Music for the run :  Through The Fire and Flames by Dragonforce
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-03
+        
+        Time (minutes) : 16.633333333333333
+        
+        Distance (miles) : 2.0196421613
+        
+        Pace (minutes per mile) : 8:14
+        
+        Description : Drunk post sunday funday jog
+
+Song OTD: Cocoon by Migos
+        
+        Music for the run :  Cocoon by Migos
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-04
+        
+        Time (minutes) : 60.68333333333333
+        
+        Distance (miles) : 7.556306319700001
+        
+        Pace (minutes per mile) : 8:01
+        
+        Description : Yeah that’ll do
+
+Song OTD: 7 AM by Lil Uzi Vert
+        
+        Music for the run :  7 AM by Lil Uzi Vert
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-05
+        
+        Time (minutes) : 26.433333333333337
+        
+        Distance (miles) : 3.2689085568
+        
+        Pace (minutes per mile) : 8:05
+        
+        Description : Kind of a mail in had a talk to give and was running late. Switching up my routes tho
+
+Song OTD:  Crew by Goldlink
+        
+        Music for the run :   Crew by Goldlink
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-07
+        
+        Time (minutes) : 6.266666666666667
+        
+        Distance (miles) : 0.7426626192000001
+        
+        Pace (minutes per mile) : 8:26
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-07
+        
+        Time (minutes) : 56.35
+        
+        Distance (miles) : 6.7728196257999995
+        
+        Pace (minutes per mile) : 8:19
+        
+        Description : So I faceplanted at grammercy park. Phone flew into street. Shoutout to the kind couple who helped me up. Finished out 3/4 mile after this
+
+Song OTD: Sky by Playboi Carti
+        
+        Music for the run :  Sky by Playboi Carti
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-10
+        
+        Time (minutes) : 70.61666666666666
+        
+        Distance (miles) : 9.0101280484
+        
+        Pace (minutes per mile) : 7:50
+        
+        Description : Yeah this really hurt but LFG!!!!!!!!! Almost to half
+
+Song OTD: Forgive Me Father by Wiz Khalifa
+        
+        Music for the run :  Forgive Me Father by Wiz Khalifa
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-12
+        
+        Time (minutes) : 9.6
+        
+        Distance (miles) : 1.1765659885
+        
+        Pace (minutes per mile) : 8:09
+        
+        Description : nan
+        
+        Music for the run : nan
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-13
+        
+        Time (minutes) : 21.216666666666665
+        
+        Distance (miles) : 2.7666543775
+        
+        Pace (minutes per mile) : 7:40
+        
+        Description : Ran to dinner and ran back. Previous 2 runs
+
+Song OTD: Man I Need by Olivia Dean
+        
+        Music for the run :  Man I Need by Olivia Dean
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-14
+        
+        Time (minutes) : 56.63333333333333
+        
+        Distance (miles) : 7.0201874209
+        
+        Pace (minutes per mile) : 8:04
+        
+        Description : Had to test out the course. That was fucking awesome
+
+Song OTD: Raf by ASAP Mob
+        
+        Music for the run :  Raf by ASAP Mob
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-17
+        
+        Time (minutes) : 32.666666666666664
+        
+        Distance (miles) : 4.126089851300001
+        
+        Pace (minutes per mile) : 7:55
+        
+        Description : So so tired this is all I got in me today
+
+Song OTD: Can’t Hurry Love by The Supremes
+        
+        Music for the run :  Can’t Hurry Love by The Supremes
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-18
+        
+        Time (minutes) : 57.35
+        
+        Distance (miles) : 7.1741631547
+        
+        Pace (minutes per mile) : 7:59
+        
+        Description : Gettin war ready
+
+Song OTD: Man At The Garden by Kendrick Lamar
+        
+        Music for the run :  Man At The Garden by Kendrick Lamar
+        
+    --------------------
+    
+
+     
+    --------------------
+    
+        Date : 2025-11-21
+        
+        Time (minutes) : 80.35
+        
+        Distance (miles) : 10.0165626571
+        
+        Pace (minutes per mile) : 8:01
+        
+        Description : My legs literally were falling apart at end but lets fucking go!!!
+
+Song OTD: When to Say When by Drake
+        
+        Music for the run :  When to Say When by Drake
+        
+    --------------------
+    
+
+    
